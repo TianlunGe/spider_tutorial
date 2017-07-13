@@ -1,0 +1,4 @@
+crawl ended{'stock_name': ['<div class="stockTitle"><span class="stockName"><strong '
+                'class="stockName"> <a href="/S/AAPL" title="Apple '
+                'Inc.">Æ»¹û(NASDAQ:AAPL)</a></strong></span><div '
+                'class="fix"></div></div>']}
