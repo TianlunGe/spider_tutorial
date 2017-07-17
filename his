@@ -1,0 +1,13 @@
+response
+sel = response.selector
+sel
+tables = sel.xpath('//table')
+tables
+call = tables[1]
+calss
+call
+rows = call.xpath('//tr')
+rows
+edit
+_unpack(rows[0], kind='th')
+%history -f his
